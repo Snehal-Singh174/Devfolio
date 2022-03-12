@@ -5,10 +5,10 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Snehal-Singh174/Movies-App/issues)
-[![Forks](https://img.shields.io/github/forks/Snehal-Singh174/Supabase-Flutter-Tutorial.svg?logo=github)](https://github.com/Snehal-Singh174/Movies-App/network/members)
-[![Stargazers](https://img.shields.io/github/stars/Snehal-Singh174/Supabase-Flutter-Tutorial.svg?logo=github)](https://github.com/Snehal-Singh174/Movies-App/stargazers)
-[![Issues](https://img.shields.io/github/issues/Snehal-Singh174/Supabase-Flutter-Tutorial.svg?logo=github)](https://github.com/Snehal-Singh174/Movies-App/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Snehal-Singh174/Devfolio/issues)
+[![Forks](https://img.shields.io/github/forks/Snehal-Singh174/Devfolio.svg?logo=github)](https://github.com/Snehal-Singh174/Devfolio/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Snehal-Singh174/Devfolio.svg?logo=github)](https://github.com/Snehal-Singh174/Devfolio/stargazers)
+[![Issues](https://img.shields.io/github/issues/Snehal-Singh174/Devfolio.svg?logo=github)](https://github.com/Snehal-Singh174/Devfolio/issues)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/snehal-singh-b5119817b/)
 
 ## :point_down: Support my projects!
