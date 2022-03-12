@@ -5,7 +5,7 @@
 </div>
 
 <div align= "center">
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Snehal-Singh174/Devfolio/issues)(#)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)(https://github.com/Snehal-Singh174/Devfolio/issues)](#)
 </div>
 
 ## :point_down: Support my projects!
