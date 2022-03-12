@@ -4,12 +4,13 @@
   <h4>A Portfolio for developer created using Flutter.</h4>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align = "center">
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Snehal-Singh174/Devfolio/issues)
 [![Forks](https://img.shields.io/github/forks/Snehal-Singh174/Devfolio.svg?logo=github)](https://github.com/Snehal-Singh174/Devfolio/network/members)
 [![Stargazers](https://img.shields.io/github/stars/Snehal-Singh174/Devfolio.svg?logo=github)](https://github.com/Snehal-Singh174/Devfolio/stargazers)
 [![Issues](https://img.shields.io/github/issues/Snehal-Singh174/Devfolio.svg?logo=github)](https://github.com/Snehal-Singh174/Devfolio/issues)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/snehal-singh-b5119817b/)
+</div>
 
 ## :point_down: Support my projects!
 <a href="https://www.buymeacoffee.com/Snehal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
