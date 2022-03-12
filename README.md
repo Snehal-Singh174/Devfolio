@@ -5,7 +5,7 @@
 </div>
 
 <div align= "center">
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)(https://github.com/Snehal-Singh174/Devfolio/issues)](#)
+  [![GitHub Forks](https://img.shields.io/github/forks/Snehal-Singh174/Devfolio.svg?logo=github)](https://github.com/Snehal-Singh174/Devfolio/fork)
 </div>
 
 ## :point_down: Support my projects!
